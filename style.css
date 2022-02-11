@@ -96,7 +96,8 @@ body{
 @media screen and (max-width: 768px){
 
 	.box{
-		width: 635px;
+		width: 568px;
+		height: 144px;
 	}
 	.content{
 		margin-top: -38px;
