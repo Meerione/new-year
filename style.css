@@ -96,8 +96,7 @@ body{
 @media screen and (max-width: 768px){
 
 	.box{
-		width: 2960px;
-		height: 1440px;
+		width: 635px;
 	}
 	.content{
 		margin-top: -38px;
@@ -144,7 +143,7 @@ body{
 	logo{
 		margin-top: 30px;
 	}
-	.year-text{
+	.year{
 		height: 72px ;
 	}
 }
