@@ -95,24 +95,19 @@ body{
 
 @media screen and (max-width: 768px){
 
-	.box{
-		width: 635px;
-	}
 	.content{
-		margin-top: -38px;
-		height: 843px
-	}
+		margin-top: 40px;
 
+	}
 	.congrats{
 		font-size: 16px;
-		line-height: 19px;
-		margin: 0;
+		line-height: 20px;
+
 
 	}
 	.title{
 		font-size: 52px;
-		line-height: 83px;
-		margin-top: -50px;
+		line-height: 83,2px;
 	}
 	.right-top{
 		display: none;
@@ -123,14 +118,8 @@ body{
 
 	.music{
 		top: 60px;
-		left: 590px;
+		left: 675px;
 	}
-
-	.logo{
-		bottom: 38px;
-	}
-
-}
 
 @media (max-width: 720px){
 	.congrats{
