@@ -121,22 +121,17 @@ body{
 		left: 675px;
 	}
 
-@media (max-width: 720px){
+@media (max-width: 350px){
 	.congrats{
-		height: 1520px;
+		/*height: 720px;*/
 		text-align: center;
 		margin-top: 0;
 		padding: 10px;
 
 	}
-	logo{
-		margin-top: 30px;
-	}
-	/*.year{*/
-	/*	height: 72px;*/
-	}
+
 }
-/**/
+
 
 
 @media print{
