@@ -107,7 +107,7 @@ body{
 	}
 	.title{
 		font-size: 52px;
-		line-height: 83,2px;
+		line-height: 83.2px;
 	}
 	.right-top{
 		display: none;
@@ -123,7 +123,7 @@ body{
 
 @media (max-width: 350px){
 	.congrats{
-		/*height: 720px;*/
+		height: 720px;
 		text-align: center;
 		margin-top: 0;
 		padding: 10px;
@@ -134,19 +134,23 @@ body{
 
 
 
-@media print{
+@media print {
 
-	img{
+	img {
 		display: none;
 	}
-	.title{
-		color: black;
-	}
-	.congrats{
-		color: black;
-	}
-	.sign span{
+
+	.title {
 		color: black;
 	}
 
+	.congrats {
+		color: black;
+	}
+
+	.sign span {
+		color: black;
+	}
+
+}
 }
